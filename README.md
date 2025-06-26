@@ -1,1 +1,3 @@
-# AI-calender-Assistant
+# 📅 Tailor Talk - AI Calendar Assistant
+
+A conversational AI agent that helps users book appointments on Google Calendar...
